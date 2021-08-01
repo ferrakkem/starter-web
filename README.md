@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work. This a normal github acc
 
 
 ## Introduction
-This is example is to show different part of the Git repository and various commands using a web project. From -master branch for checking rebase.
+This is example is to show different part of the Git repository and various commands using a web project. From -master branch for checking rebase, more changes from myFeature branch too.
 
 ## Purpose
 
