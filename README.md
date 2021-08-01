@@ -9,6 +9,7 @@ This is example is to show different part of the Git repository and various comm
 ## Purpose
 
 Sample website with plenty of files for demos. For the demo.
+Doing changes after git stash.
 
 ## Deployment
 For developa project
