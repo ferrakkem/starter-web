@@ -14,5 +14,5 @@ Sample website with plenty of files for demos. For the demo.
 For developa project
 
 ## How to contribute
-Please fork this repository and them issue pull requests for review
+Please fork this repository and them issue pull requests for review. Please
 
