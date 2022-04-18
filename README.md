@@ -19,3 +19,6 @@ make sure very one follow the git rules.
 Mostly Ferrakkem.
 Checking my Rebase feature.
 
+### Copyright
+Copy right for Ferrakkem.
+
