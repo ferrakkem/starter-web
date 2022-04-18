@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Ferrakkem	ferrakkem@git.traing	@awesomegit Bhuian
+    Ferrakkem	ferrakkem@git.traing	@awesomegit Bhuian and Bhuiyan
 
 # THANKS
 
@@ -17,3 +17,4 @@
 	Git, GitHUb
     Office addess:
     454, BD, CD ,USA-1230
+    BD.
