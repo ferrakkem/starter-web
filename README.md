@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work. This a normal github accountm.
+This repository is for showing how Git and GitHub work. This a normal github accountm. More changes from my feature branch.
 
 
 ## Introduction
